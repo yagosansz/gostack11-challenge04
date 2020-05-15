@@ -73,8 +73,8 @@ Node.js backend created using TypeScript for a financial application that lists 
 
 ## Getting started
 
-1. Clone this repo using `git clone https://github.com/yagosansz/gostack11-challenge01.git`
-2. Move yourself to the appropriate directory: `cd gostack11-challenge01`<br />
+1. Clone this repo using `git clone https://github.com/yagosansz/gostack11-challenge04.git`
+2. Move yourself to the appropriate directory: `cd gostack11-challenge04`<br />
 3. Run `yarn` to install dependencies<br />
 
 ### Getting started with the backend server
